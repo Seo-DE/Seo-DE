@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Seo-de&fontSize=70" />
 
 ### Hi there 👋
 
@@ -34,11 +34,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
-</div>
+
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-de&show_icons=true&theme=solarized-light)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seo-de&theme=solarized-light&show_icons=true"&layout=compact width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-de&exclude_repo=Seo-de.github.io&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-de)](https://github.com/Seo-de/github-readme-stats)
-
+</div>
