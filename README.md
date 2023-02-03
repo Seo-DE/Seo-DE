@@ -38,11 +38,12 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<div>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seo-de&theme=solarized-light&show_icons=true"&layout=compact width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seo-de&theme=solarized-light&show_icons=true" height="165px" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-de&exclude_repo=Seo-de.github.io&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-de&exclude_repo=Seo-de.github.io&layout=compact"  height="165px"/>
 </a>
-
+</div>
 </div>
