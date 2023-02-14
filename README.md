@@ -2,10 +2,7 @@
 
 
 <div align="center">
-    
-    <h3> Email : gkw1590@gmail.com </h3>
-    
-    
+    <h4> ✉️Email : gkw1590@gmail.com✉️ </h4>
     <h3>📚Tech Stack📚</h3>
     <h5>🔥Platforms&Languge🔥</h5>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -22,8 +19,6 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
-
-
 <br><br>
 
 <div>
