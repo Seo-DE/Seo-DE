@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Seo-de&fontSize=70" />
 
-### Hi there 👋
+
 
 <!--
 **Seo-de/Seo-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+    
+    <h3> Email : gkw1590@gmail.com </h3>
+    
+    
     <h3>📚Tech Stack📚</h3>
     <h5>🔥Platforms&Languge🔥</h5>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
