@@ -19,8 +19,7 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
-<br><br>
-
+<br><br><br>
 <div>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=Seo-de&theme=solarized-light&show_icons=true" height="165px" />
