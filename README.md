@@ -28,4 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-de&exclude_repo=Seo-de.github.io&layout=compact"  height="165px"/>
 </a>
 </div>
+
+<br><br>
+    
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeo-de&count_bg=%233DC8B1&title_bg=%23B5E8E3&icon=macys.svg&icon_color=%23FFF505&title=hits&edge_flat=false"/></a>
+    
+    
 </div>
